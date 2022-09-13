@@ -28,5 +28,6 @@ Makefile         11 mins         ▒░░░░░░░░░░░░░░�
 <a href="https://www.instagram.com/vearutop/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30" /></a>
 <a href="https://www.strava.com/athletes/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg" height="30" width="30" /></a>
 <a href="https://t.me/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="30" /></a>
+<a href="https://open.spotify.com/user/64qnm5l28ads3uaxlbs8nk4dh"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" height="30" width="30" /></a>
 
 
