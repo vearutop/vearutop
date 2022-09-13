@@ -2,6 +2,17 @@
 
 <!--START_SECTION:waka-->
 
+```text
+From: 05 September 2022 - To: 12 September 2022
+
+Go               19 hrs 48 mins  ██████████████████████▒░░   89.14 %
+CSV/TSV          53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Markdown         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+YAML             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JSON             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Makefile         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->
