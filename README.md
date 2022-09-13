@@ -23,7 +23,10 @@ Makefile         11 mins         ▒░░░░░░░░░░░░░░�
 - [😌 Peace of mind with GitHub Actions for a project in Go](https://dev.to/vearutop/peace-of-mind-with-github-actions-for-a-project-in-go-9d4)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://linkedin.com/in/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedromaraujo" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/329463/vearutop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8581307" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/329463/vearutop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="30" /></a>
 <a href="https://www.instagram.com/vearutop/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30" /></a>
 <a href="https://www.strava.com/athletes/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg" height="30" width="30" /></a>
+<a href="https://t.me/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="30" /></a>
+
+
