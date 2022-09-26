@@ -31,3 +31,15 @@ Text             19 mins         ▓░░░░░░░░░░░░░░�
 <a href="https://open.spotify.com/user/64qnm5l28ads3uaxlbs8nk4dh"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" height="30" width="30" /></a>
 
 
+🎵🎶🎶
+```
+I'm gettin' a little tired of your broken promises, promises
+Lookin' at your pager, seein' different numbers, numbers
+Call you on your cell, you're hangin' with the fellas, fellas
+Hangin' with my girls, you always gettin' jealous, jealous
+I was with you when you didn't have no dollars, no dollars
+Hangin' at the crib, chillin' with your mama, your mama
+Never fronted you, never brought the drama, the drama
+Now you flip the script, player, please
+```
+
