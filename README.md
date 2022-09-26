@@ -31,7 +31,7 @@ Text             19 mins         ▓░░░░░░░░░░░░░░�
 <a href="https://open.spotify.com/user/64qnm5l28ads3uaxlbs8nk4dh"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" height="30" width="30" /></a>
 
 
-🎵🎶🎶
+[🎵🎶🎶](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs?si=7fac86c8601042b2)
 ```
 I'm gettin' a little tired of your broken promises, promises
 Lookin' at your pager, seein' different numbers, numbers
