@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
 Go               5 hrs 12 mins   █████████████████░░░░░░░░   68.57 %
 YAML             51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
