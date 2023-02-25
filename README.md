@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 February 2023 - To: 22 February 2023
+From: 16 February 2023 - To: 23 February 2023
 
-Go              16 hrs 15 mins  ██████████████████░░░░░░░   71.92 %
-YAML            3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-HTML            1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JSON-lines      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Makefile        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-JavaScript      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Go              12 hrs 50 mins  ██████████████████▒░░░░░░   72.83 %
+YAML            3 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+JSON-lines      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+HTML            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Makefile        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Markdown        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
