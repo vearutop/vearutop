@@ -16,11 +16,11 @@ Markdown         19 mins         ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory arenas in Go](https://dev.to/vearutop/memory-arenas-in-go-j1f)
 - [Efficient code review](https://dev.to/vearutop/efficient-code-review-3p50)
 - [Using Nginx as a proxy to multiple Unix sockets](https://dev.to/vearutop/using-nginx-as-a-proxy-to-multiple-unix-sockets-3c7a)
 - [Implementing robust in-memory cache with Go](https://dev.to/vearutop/implementing-robust-in-memory-cache-with-go-196e)
 - [GitHub Actions with unstable Go](https://dev.to/vearutop/github-actions-with-unstable-go-30fn)
-- [Tutorial: Developing a RESTful API with Go, JSON Schema validation and OpenAPI docs](https://dev.to/vearutop/tutorial-developing-a-restful-api-with-go-json-schema-validation-and-openapi-docs-2490)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://linkedin.com/in/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
