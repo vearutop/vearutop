@@ -3,14 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2023 - To: 10 April 2023
+From: 04 April 2023 - To: 11 April 2023
 
-Go           2 hrs 20 mins   ██████████████████████░░░   87.83 %
-Text         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-go.mod       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
