@@ -15,11 +15,11 @@ Makefile         23 mins         ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->
+- [Passing generated data as io.Reader at high speed in Go](https://dev.to/vearutop/passing-generated-data-as-ioreader-at-high-speed-in-go-248k)
 - [Using code coverage to debug large Go application](https://dev.to/vearutop/using-code-coverage-to-debug-large-go-application-1gkf)
 - [Profile-guided optimization of a Go application](https://dev.to/vearutop/profile-guided-optimization-of-a-go-application-l49)
 - [Memory arenas in Go](https://dev.to/vearutop/memory-arenas-in-go-j1f)
 - [Efficient code review](https://dev.to/vearutop/efficient-code-review-3p50)
-- [Using Nginx as a proxy to multiple Unix sockets](https://dev.to/vearutop/using-nginx-as-a-proxy-to-multiple-unix-sockets-3c7a)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://linkedin.com/in/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
