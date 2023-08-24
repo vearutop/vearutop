@@ -15,7 +15,7 @@ Markdown         30 mins         ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->
-- [Passing generated data as io.Reader at high speed in Go](https://dev.to/vearutop/passing-generated-data-as-ioreader-at-high-speed-in-go-248k)
+- [Streaming generated data as io.Reader at high speed in Go](https://dev.to/vearutop/passing-generated-data-as-ioreader-at-high-speed-in-go-248k)
 - [Using code coverage to debug large Go application](https://dev.to/vearutop/using-code-coverage-to-debug-large-go-application-1gkf)
 - [Profile-guided optimization of a Go application](https://dev.to/vearutop/profile-guided-optimization-of-a-go-application-l49)
 - [Memory arenas in Go](https://dev.to/vearutop/memory-arenas-in-go-j1f)
