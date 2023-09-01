@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2023 - To: 29 August 2023
+From: 23 August 2023 - To: 30 August 2023
 
-Go               15 hrs 35 mins  ██████████████████▒░░░░░░   72.94 %
-JavaScript       2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-HTML             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Markdown         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-go.mod           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Go               11 hrs 8 mins   █████████████████▒░░░░░░░   69.48 %
+JavaScript       2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+HTML             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Markdown         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Singularity      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
