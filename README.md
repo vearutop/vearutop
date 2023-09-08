@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-Go         1 hr 30 mins    ████████████████████████▒   97.69 %
-go.mod     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
