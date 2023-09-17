@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-Go               2 hrs 47 mins   ███████████████████▓░░░░░   78.41 %
-Text             31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-Markdown         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-go.mod           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Makefile         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Go               3 hrs 40 mins   ████████████████████░░░░░   80.05 %
+Text             31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Markdown         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+go.mod           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Makefile         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
