@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 22 September 2023
+From: 16 September 2023 - To: 23 September 2023
 
 Go              9 hrs 20 mins   ███████████████████░░░░░░   75.73 %
 Objective-C     2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
