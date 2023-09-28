@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 25 September 2023
+From: 19 September 2023 - To: 26 September 2023
 
-Go              8 hrs 5 mins    ████████████████████▓░░░░   83.07 %
-Bash            30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Objective-C     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-YAML            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-PlantUML file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Go              11 hrs 22 mins  ███████████████████░░░░░░   76.48 %
+JavaScript      1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+HTML            45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Bash            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Markdown        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
