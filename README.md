@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
 Go               10 hrs 55 mins  ████████████████▒░░░░░░░░   65.78 %
 HTML             1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
