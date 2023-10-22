@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-No activity tracked
+Go               1 hr 42 mins    ██████████▓░░░░░░░░░░░░░░   43.30 %
+HTML             1 hr 5 mins     ███████░░░░░░░░░░░░░░░░░░   27.79 %
+JavaScript       58 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
+GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Ezhil            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
