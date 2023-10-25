@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-Go               5 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.34 %
-HTML             2 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
-JavaScript       1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Ezhil            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Go               10 hrs 17 mins  ████████████████░░░░░░░░░   63.84 %
+HTML             2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
+JavaScript       2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+CSS              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+go.mod           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
