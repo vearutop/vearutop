@@ -32,7 +32,7 @@ Makefile         7 mins          ▒░░░░░░░░░░░░░░�
 
 [Taking pictures on the run](https://p1cs.1337.cx)
 
-[![Taking pictures on the run](https://github.com/vearutop/vearutop/assets/1381436/28b422c7-7008-4670-ae4e-77c2724f0617)](https://p1cs.1337.cx)
+[![Taking pictures on the run](https://github.com/vearutop/vearutop/assets/1381436/9e06b4de-e2cb-42ea-a844-bf7c07a88060)](https://p1cs.1337.cx)
 
 
 [🎵🎶🎶](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs?si=7fac86c8601042b2)
@@ -46,5 +46,3 @@ Hangin' at the crib, chillin' with your mama, your mama
 Never fronted you, never brought the drama, the drama
 Now you flip the script, player, please
 ```
-
-
