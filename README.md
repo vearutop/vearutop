@@ -30,9 +30,9 @@ Text             4 mins          ░░░░░░░░░░░░░░░�
 <a href="https://open.spotify.com/user/64qnm5l28ads3uaxlbs8nk4dh"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" height="30" width="30" /></a>
 
 
-[Taking pictures on the run](https://bigpi.cc/)
+[Taking pictures on the run](https://vearutop.p1cs.art/)
 
-[![Taking pictures on the run](https://github.com/vearutop/vearutop/assets/1381436/9e06b4de-e2cb-42ea-a844-bf7c07a88060)](https://bigpi.cc/)
+[![Taking pictures on the run](https://github.com/vearutop/vearutop/assets/1381436/9e06b4de-e2cb-42ea-a844-bf7c07a88060)](https://vearutop.p1cs.art/)
 
 
 [🎵🎶🎶](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs?si=7fac86c8601042b2)
