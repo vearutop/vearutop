@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2023 - To: 22 December 2023
+From: 16 December 2023 - To: 23 December 2023
 
-Go               11 hrs 43 mins  ██████████████████████▓░░   90.25 %
-JavaScript       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-CSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-textmate         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Go               14 hrs 31 mins  ███████████████████████░░   91.87 %
+JavaScript       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+CSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+textmate         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
