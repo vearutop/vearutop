@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
 Go                   8 hrs 45 mins   ██████████████████░░░░░░░   71.51 %
 Gherkin              57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
