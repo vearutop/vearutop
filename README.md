@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-Go                   1 hr 28 mins    ████████████████████░░░░░   80.12 %
-Gherkin              20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-go.mod               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-CSV/TSV              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Markdown             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
