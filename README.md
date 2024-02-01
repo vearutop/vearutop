@@ -3,10 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2024 - To: 29 January 2024
+From: 23 January 2024 - To: 30 January 2024
 
-Go                   11 mins         █████████████████████████   99.99 %
-x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                   1 hr 27 mins    ████████████▒░░░░░░░░░░░░   48.75 %
+Gherkin              1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.98 %
+Docker               14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+YAML                 7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Text                 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
