@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2024 - To: 04 February 2024
+From: 29 January 2024 - To: 05 February 2024
 
-Go                   6 hrs 52 mins   ███████████░░░░░░░░░░░░░░   43.72 %
-Docker               3 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.81 %
-YAML                 1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Gherkin              1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-SQL                  39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Go               8 hrs 6 mins    ███████████░░░░░░░░░░░░░░   43.57 %
+Docker           3 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+SQL              1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+YAML             1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Gherkin          1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
