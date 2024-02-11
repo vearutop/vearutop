@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2024 - To: 08 February 2024
+From: 02 February 2024 - To: 09 February 2024
 
-Go               10 hrs 15 mins  ███████████████▒░░░░░░░░░   61.90 %
-JavaScript       3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-SQL              1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-HTML             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Docker           26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Go           11 hrs 23 mins  █████████████████░░░░░░░░   67.64 %
+JavaScript   3 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+SQL          1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+HTML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
