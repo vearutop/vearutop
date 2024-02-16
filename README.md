@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-Go             11 hrs 41 mins  ████████████████▒░░░░░░░░   65.78 %
+Go             11 hrs 15 mins  ████████████████░░░░░░░░░   63.38 %
 JavaScript     3 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-HTML           1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+HTML           1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 CSS            42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-textmate       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Text           27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
