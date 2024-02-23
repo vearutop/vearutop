@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 14 February 2024 - To: 21 February 2024
 
-Go               6 hrs 28 mins   ████████████████▒░░░░░░░░   64.75 %
-JavaScript       1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-JSON             43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-YAML             29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Makefile         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Go               6 hrs 43 mins   ██████████████▓░░░░░░░░░░   58.02 %
+YAML             1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+JavaScript       1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+JSON             43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+PlantUML file    22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
