@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 27 February 2024
+From: 21 February 2024 - To: 28 February 2024
 
-Go                   10 hrs 37 mins  ███████████████████▓░░░░░   78.06 %
-YAML                 1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-Makefile             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-PlantUML file        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Markdown             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Go                   13 hrs 38 mins  ██████████████████████░░░   88.31 %
+JavaScript           36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Makefile             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+YAML                 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Gherkin              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
