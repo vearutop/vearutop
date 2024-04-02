@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2024 - To: 30 March 2024
+From: 24 March 2024 - To: 31 March 2024
 
-Go             4 hrs 44 mins   ██████████████▒░░░░░░░░░░   57.85 %
-JavaScript     2 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-Markdown       31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-SQL            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Shell Script   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Go             2 hrs 42 mins   █████████████████▓░░░░░░░   71.03 %
+Markdown       31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+Shell Script   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Bash           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JavaScript     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
