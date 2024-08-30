@@ -3,13 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2024 - To: 27 August 2024
+From: 21 August 2024 - To: 28 August 2024
 
-Go             1 hr 24 mins    ███████████░░░░░░░░░░░░░░   44.08 %
-JSON           39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-SQL            39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-Bash           15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-Shell Script   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Go           10 mins         ███████████████████████▓░   95.08 %
+JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
