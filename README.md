@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
 Go           38 mins         ███████████████████░░░░░░   76.53 %
 Bash         8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
