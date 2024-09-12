@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-Go           3 hrs 18 mins   ████████████████████░░░░░   80.05 %
-JavaScript   34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-YAML         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go             4 hrs 13 mins   ██████████████████▒░░░░░░   73.15 %
+JavaScript     34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+YAML           27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+HTML           26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Markdown       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
