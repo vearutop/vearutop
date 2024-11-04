@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 27 October 2024 - To: 03 November 2024
 
 Go               13 hrs 38 mins  ███████████████████▓░░░░░   78.21 %
 Gherkin          1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
