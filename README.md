@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2024 - To: 07 November 2024
+From: 02 November 2024 - To: 09 November 2024
 
-Go               16 hrs 4 mins   ████████████████████▒░░░░   81.31 %
-Gherkin          1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Markdown         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-YAML             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Makefile         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Go               19 hrs 48 mins  █████████████████████▒░░░   85.55 %
+Gherkin          1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Markdown         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Makefile         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+YAML             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
