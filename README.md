@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Go               16 hrs 49 mins  █████████████████████▓░░░   86.00 %
-JavaScript       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Gherkin          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-go.mod           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-HTML             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Go               14 hrs 46 mins  █████████████████████░░░░   83.99 %
+Gherkin          43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+JavaScript       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+HTML             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+go.mod           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
