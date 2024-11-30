@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2024 - To: 27 November 2024
+From: 21 November 2024 - To: 28 November 2024
 
-Go               5 hrs 57 mins   ██████████████████░░░░░░░   71.50 %
-JavaScript       36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Markdown         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-YAML             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Gherkin          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Go               5 hrs 47 mins   ██████████████████▓░░░░░░   74.41 %
+JavaScript       34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Markdown         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+YAML             23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+SQL              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
