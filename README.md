@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2024 - To: 15 December 2024
+From: 09 December 2024 - To: 16 December 2024
 
-Go               4 hrs 52 mins   ███████████████▒░░░░░░░░░   61.38 %
-textmate         48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-Gherkin          38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Markdown         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-SQL              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Go               4 hrs 35 mins   ███████████████▓░░░░░░░░░   62.14 %
+textmate         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Gherkin          38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Markdown         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+HTML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
