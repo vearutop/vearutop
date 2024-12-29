@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2024 - To: 26 December 2024
+From: 20 December 2024 - To: 27 December 2024
 
-Go           3 hrs 2 mins    ██████████████████████▓░░   90.85 %
-Markdown     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
