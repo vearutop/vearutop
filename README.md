@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-Go   7 mins          █████████████████████████   100.00 %
+Go               10 mins         ████████████████████▓░░░░   82.80 %
+YAML             1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+go.mod           0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Makefile         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
