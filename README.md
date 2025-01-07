@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
 Go               8 hrs 45 mins   █████████████████▓░░░░░░░   71.22 %
 JavaScript       2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
