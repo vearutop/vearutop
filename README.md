@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2025 - To: 10 January 2025
+From: 04 January 2025 - To: 11 January 2025
 
-Go               4 hrs 54 mins   █████████████░░░░░░░░░░░░   52.46 %
-JavaScript       2 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-HTML             1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Go               4 hrs 51 mins   █████████████░░░░░░░░░░░░   52.21 %
+JavaScript       2 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+HTML             1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
 Makefile         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
