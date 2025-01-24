@@ -3,10 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2025 - To: 20 January 2025
+From: 15 January 2025 - To: 22 January 2025
 
-Go     0 secs          ███████████████████████▓░   95.27 %
-YAML   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Go         2 hrs 45 mins   ███████████████████████░░   91.76 %
+Gherkin    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
