@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2025 - To: 22 April 2025
+From: 16 April 2025 - To: 23 April 2025
 
-Go             3 hrs 42 mins   ███████████████████████▒░   92.84 %
-Markdown       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Makefile       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Go             4 hrs 43 mins   ███████████████████████▒░   93.00 %
+Markdown       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+JavaScript     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Makefile       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
