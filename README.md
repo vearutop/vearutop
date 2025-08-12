@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
 Go                   19 hrs 15 mins  █████████████████████▒░░░   85.55 %
 Gherkin              2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
