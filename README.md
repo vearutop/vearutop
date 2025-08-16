@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Go               6 hrs 9 mins    ███████████████████░░░░░░   75.96 %
-Gherkin          1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-YAML             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-SQL              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+YAML             3 hrs 52 mins   ████████████░░░░░░░░░░░░░   48.43 %
+Go               2 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.87 %
+Gherkin          1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
