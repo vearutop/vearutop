@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2025 - To: 01 September 2025
+From: 26 August 2025 - To: 02 September 2025
 
-Go               21 hrs 31 mins  █████████████████████░░░░   84.63 %
-Gherkin          1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Markdown         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Makefile         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Docker           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Go             18 hrs 54 mins  █████████████████████░░░░   84.27 %
+Markdown       49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Makefile       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Gherkin        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+textmate       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
