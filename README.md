@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2025 - To: 10 September 2025
+From: 04 September 2025 - To: 11 September 2025
 
-Go             4 hrs 44 mins   ███████████████████████▒░   93.88 %
-textmate       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Markdown       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Text           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Gherkin        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Go             6 hrs 36 mins   ███████████████████████░░   91.40 %
+JSON           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+textmate       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Text           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
