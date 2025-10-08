@@ -34,7 +34,10 @@ JSON                 26 mins         █░░░░░░░░░░░░░�
 
 [![Taking pictures on the run](https://github.com/vearutop/vearutop/assets/1381436/9e06b4de-e2cb-42ea-a844-bf7c07a88060)](https://vearutop.p1cs.art/)
 
-https://github.com/user-attachments/assets/8bfb2f41-4e1a-464e-a3e1-ba8d1b3f0826
+
+https://github.com/user-attachments/assets/c98a9709-234e-4233-82a6-176431e09db5
+
+
 
 [🎵🎶🎶](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs?si=7fac86c8601042b2)
 ```
