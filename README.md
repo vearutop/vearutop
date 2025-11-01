@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2025 - To: 29 October 2025
+From: 23 October 2025 - To: 30 October 2025
 
-Go             10 hrs 52 mins  ██████████████████████▒░░   89.92 %
-Makefile       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-YAML           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Markdown       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Dockerfile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Go             9 hrs 2 mins    ██████████████████████▒░░   88.76 %
+Makefile       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+YAML           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Markdown       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Dockerfile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
