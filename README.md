@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
-Go             13 hrs 51 mins  ████████████████████▒░░░░   81.85 %
-YAML           1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-JavaScript     43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Bash           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Markdown       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Go             13 hrs 23 mins  ████████████████████▓░░░░   82.62 %
+YAML           54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+JavaScript     44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Bash           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
