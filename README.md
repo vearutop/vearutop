@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Go         19 hrs 30 mins  ████████████████████░░░░░   80.15 %
-Gherkin    3 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-YAML       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Markdown   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Makefile   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Go         20 hrs 8 mins   ██████████████████████▓░░   90.49 %
+Gherkin    1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+YAML       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Makefile   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JSON       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
