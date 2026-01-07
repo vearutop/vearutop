@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Go               9 hrs 2 mins    █████████████████████░░░░   83.94 %
-YAML             1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Markdown         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Bash             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Makefile         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Go               8 hrs 4 mins    ███████████████████████░░   92.06 %
+YAML             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+SQL              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Makefile         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Shell Script     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
