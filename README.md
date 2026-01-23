@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2026 - To: 20 January 2026
+From: 14 January 2026 - To: 21 January 2026
 
-Go               6 hrs 12 mins   ██████████████████▓░░░░░░   74.89 %
-Bash             50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Shell Script     39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-JavaScript       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-YAML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Go               6 hrs 31 mins   ███████████████████░░░░░░   75.88 %
+Bash             50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Shell Script     39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+JavaScript       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+JSON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
