@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2026 - To: 23 January 2026
+From: 17 January 2026 - To: 24 January 2026
 
 Go               6 hrs 40 mins   ███████████████████▒░░░░░   77.16 %
 Shell Script     45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
