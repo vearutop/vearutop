@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
-Go             7 hrs 43 mins   ██████████████████░░░░░░░   72.00 %
-JavaScript     39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Shell Script   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Markdown       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Bash           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Go             6 hrs 7 mins    ██████████████████░░░░░░░   71.89 %
+Shell Script   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Markdown       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+JavaScript     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Bash           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
