@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2026 - To: 10 February 2026
+From: 04 February 2026 - To: 11 February 2026
 
-Go             9 hrs 45 mins   ███████████████████▒░░░░░   76.96 %
-Markdown       1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-JavaScript     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Gherkin        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-JSON           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Go               14 hrs 34 mins  ███████████████████▒░░░░░   77.53 %
+Markdown         2 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+JavaScript       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+go.mod           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Gherkin          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
