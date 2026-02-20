@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-Go               19 hrs 16 mins        █████████████████████▒░░░   85.91 %
-Markdown         1 hr 23 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-GitIgnore file   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-go.mod           15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Text             13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Go               16 hrs 49 mins        ██████████████████████▒░░   89.94 %
+Markdown         34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+GitIgnore file   16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+JavaScript       13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Go Template      12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
