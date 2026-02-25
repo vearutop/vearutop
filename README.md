@@ -32,7 +32,7 @@ JavaScript       14 mins               ▒░░░░░░░░░░░░�
 
 <img align="center" src="https://vearutop.p1cs.art/static/favicon.png" height="20" width="20" /> [Taking pictures on the run](https://vearutop.p1cs.art/)
 
-[![Taking pictures on the run](https://vearutop.p1cs.art/featured/grid.jpg?rows=3)](https://vearutop.p1cs.art/)
+[![Taking pictures on the run](https://vearutop.p1cs.art/featured/grid.jpg)](https://vearutop.p1cs.art/)
 
 
 https://github.com/user-attachments/assets/c98a9709-234e-4233-82a6-176431e09db5
