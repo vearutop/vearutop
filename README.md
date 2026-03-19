@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2026 - To: 16 March 2026
+From: 10 March 2026 - To: 17 March 2026
 
-Go               10 hrs 59 mins        ████████████████░░░░░░░░░   64.62 %
-Gherkin          2 hrs 50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
-JavaScript       1 hr 7 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Markdown         35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Bash             28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Go               13 hrs 34 mins        █████████████████▒░░░░░░░   69.65 %
+Gherkin          2 hrs 45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+JavaScript       1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Bash             28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown         23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
