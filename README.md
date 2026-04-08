@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-No activity tracked
+Go               2 hrs 9 mins          ███████████▒░░░░░░░░░░░░░   45.99 %
+Other            1 hr 59 mins          ██████████▓░░░░░░░░░░░░░░   42.73 %
+YAML             14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Markdown         14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Text             1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
