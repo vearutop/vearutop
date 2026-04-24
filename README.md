@@ -15,11 +15,11 @@ JSON             9 mins                ▒░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
 - [Publishing Markdown to Confluence using GitHub Actions](https://dev.to/vearutop/publishing-markdown-to-confluence-using-github-actions-1k4g)
 - [Building a portable face recognition application with Go and dlib](https://dev.to/vearutop/building-a-portable-face-recognition-application-with-go-and-dlib-12p1)
 - [Streaming generated data as io.Reader at high speed in Go](https://dev.to/vearutop/passing-generated-data-as-ioreader-at-high-speed-in-go-248k)
 - [Using code coverage to debug large Go application](https://dev.to/vearutop/using-code-coverage-to-debug-large-go-application-1gkf)
-- [Profile-guided optimization of a Go application](https://dev.to/vearutop/profile-guided-optimization-of-a-go-application-l49)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://linkedin.com/in/vearutop"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
