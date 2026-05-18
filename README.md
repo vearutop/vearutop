@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2026 - To: 15 May 2026
+From: 10 May 2026 - To: 17 May 2026
 
 Other            16 hrs 40 mins        ███████████▓░░░░░░░░░░░░░   46.46 %
 Go               10 hrs 1 min          ███████░░░░░░░░░░░░░░░░░░   27.93 %
