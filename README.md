@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2026 - To: 08 July 2026
+From: 02 July 2026 - To: 09 July 2026
 
-Go             5 hrs 49 mins         ████████████▓░░░░░░░░░░░░   50.70 %
-Java           2 hrs 15 mins         █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-Markdown       1 hr 8 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Makefile       41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-JavaScript     30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Go             6 hrs 15 mins         ████████████▓░░░░░░░░░░░░   51.08 %
+Java           2 hrs 15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+Markdown       1 hr 27 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Makefile       41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+JavaScript     30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
