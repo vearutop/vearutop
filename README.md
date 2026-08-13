@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2026 - To: 10 August 2026
+From: 04 August 2026 - To: 11 August 2026
 
-Go               15 hrs 20 mins        ███████████████████░░░░░░   76.34 %
-Markdown         1 hr 35 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-YAML             1 hr 31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-JavaScript       32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Makefile         16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Go               14 hrs 6 mins         █████████████████▓░░░░░░░   70.75 %
+Markdown         2 hrs 17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+YAML             1 hr 32 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Makefile         33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+JavaScript       32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
