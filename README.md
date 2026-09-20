@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
-Go               13 hrs 8 mins         █████████████▓░░░░░░░░░░░   54.33 %
-Markdown         3 hrs 6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Rust             3 hrs 5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Gherkin          1 hr 56 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Makefile         44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Go               10 hrs 39 mins        ██████████▓░░░░░░░░░░░░░░   42.86 %
+Rust             5 hrs 3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+Markdown         3 hrs 54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Text             1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Makefile         49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
