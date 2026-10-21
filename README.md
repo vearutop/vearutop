@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2026 - To: 18 October 2026
+From: 12 October 2026 - To: 19 October 2026
 
-Markdown   3 hrs 52 mins         ███████░░░░░░░░░░░░░░░░░░   27.96 %
-textmate   3 hrs 51 mins         ███████░░░░░░░░░░░░░░░░░░   27.82 %
-Rust       3 hrs 47 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.27 %
-Gherkin    54 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Other      43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Markdown   3 hrs 17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
+Go         3 hrs 4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.34 %
+Rust       2 hrs 20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+Other      1 hr 40 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+textmate   1 hr 18 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
 ```
 
 <!--END_SECTION:waka-->
