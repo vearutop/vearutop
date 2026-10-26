@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2026 - To: 23 October 2026
+From: 17 October 2026 - To: 24 October 2026
 
-Go               11 hrs 7 mins         █████████▒░░░░░░░░░░░░░░░   37.13 %
-Markdown         6 hrs 35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-Rust             5 hrs 27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-Other            4 hrs 31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Makefile         1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Markdown         13 hrs 2 mins         ████████░░░░░░░░░░░░░░░░░   31.76 %
+Go               11 hrs 7 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
+Rust             9 hrs 30 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+Other            4 hrs 31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+Makefile         1 hr 7 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
